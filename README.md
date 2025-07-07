@@ -1,4 +1,4 @@
-# Posthumanist Phenomenology and Artific
+# Posthumanist Phenomenology and Artificial Intelligence
 
 This repository hosts materials for the research paper “Posthumanist Phenomenology and Artificial Intelligence,” a cross-disciplinary study that blends continental philosophy with contemporary computational methods to rethink subjectivity, agency, and AI ethics[^1]. The README provides an accessible entry point for scholars, students, and developers who wish to explore, build upon, or teach the ideas contained in the manuscript[^1].
 
