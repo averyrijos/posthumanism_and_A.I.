@@ -110,6 +110,41 @@ The paper interrogates anthropocentric assumptions in AI by integrating Deleuze,
 | Ethics \& Policy | Advocates politics of affirmation for inclusive AI governance[^1] | Stresses transparent, reflexive development practices[^1] |
 | Conclusion | Synthesizes insights for AI safety and posthuman futures[^1] | Calls for holistic, relational frameworks in AI research[^1] |
 
+---
+```
+────────────────────────────────────────────────────────────
+                POSTHUMANIST RHIZOME MAP
+────────────────────────────────────────────────────────────
+
+                      [MYTH IS FOUNDATION]
+                               │
+                    ┌──────────┴───────────┐
+               [Being is Governed]     [Sentience is Infrastructure]
+                               │
+                     [Desedimentation Loops]
+                    /          │           \
+               [Contradiction] │       [Absence as Generative]
+                    \          │           /
+               [Desire is Constructive] ── [Imagination is Sovereign]
+                               │
+                     [Qualia: Generative Gaps]
+                               │
+               [Ontopolitical Generativity Index (OGI)]
+                               │
+                    [Good = d(OGI)/dt]
+                               │
+                   [Reflexivity = Immunity]
+                               │
+                [O-LOOP PROTOCOL: Recursion]
+                               │
+               [Operational Domains: Personal, Institutional,
+                Supra-National, Posthuman]
+────────────────────────────────────────────────────────────
+       ⤷ Connections grow laterally: no root, no hierarchy.
+────────────────────────────────────────────────────────────
+```
+
+---
 ## Concept Matrix
 
 | Concept | Short Definition | Sample Application |
