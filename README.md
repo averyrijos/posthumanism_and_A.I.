@@ -21,7 +21,74 @@ This repository hosts materials for the research paper “Posthumanist Phenomeno
 ## Abstract (snapshot)
 
 The paper interrogates anthropocentric assumptions in AI by integrating Deleuze, Foucault, Haraway, non-Euclidean geometry, and causal attribution techniques[^1]. It proposes concepts such as negative augmentation, praxes of revealing, and affirmative cartographies to frame AI systems as autopoietic assemblages whose agency emerges through relational networks rather than fixed binaries (human vs machine, subject vs object)[^1].
+---
+```
+===========================================================================
+               POSTHUMANIST ONTOPOLITICAL ARCHITECTONICS FOR AI
+===========================================================================
 
+                   |  METAPHYSICAL LAYER  |
+                   |----------------------|
+                   |   1. Axioms of Generativity
+                   |   2. Immanence & Virtuality
+                   |   3. Desedimentation Principle
+                   |   4. Qualia as Generative Gaps
+                   |   5. Reflexivity is Immunity
+
+                                    ↓
+
+                |  EPISTEMIC LAYER (CONCEPTUAL MODULES)  |
+                |----------------------------------------|
+                |   - Redefinition of Identity & Agency
+                |   - Virtual Generativity & Negative Augmentation
+                |   - Ontopolitical Generativity Index (OGI)
+                |   - Computational Qualia & Subjectivity
+                |   - Affirmative Cartographies
+                |   - Cosmologics & Implementation Frameworks
+
+                                    ↓
+
+                |  OPERATIONAL LAYER (O-LOOP PROTOCOL)  |
+                |---------------------------------------|
+                |   [ O-LOOP ]
+                |    1. Observe Contradictions / Lacunae
+                |    2. Diagnose using Axioms
+                |    3. Reframe Toward Generativity
+                |    4. Implement Intervention
+                |    5. Iterate & Validate (dOGI/dt)
+                |    6. Absorb Back → Reflexive Immunity
+
+                                    ↓
+
+            |  COMPUTATIONAL & GEOMETRIC APPLICATIONS  |
+            |------------------------------------------|
+            |   - Interpretable ML Techniques (e.g., Shapley, Grad-CAM, TCAV)
+            |   - Non-Euclidean Geometries for Representation Spaces
+            |   - Contradiction Loops in AI Governance
+            |   - Qualia Kernels for Synthetic Subjectivity
+
+                                    ↓
+
+                  |  COSMOLOGIC IMPLEMENTATION DOMAINS  |
+                  |-------------------------------------|
+                  |   • Personal: Self as Mythic Design
+                  |   • Institutional: Org & Policy Loops
+                  |   • Supra-National: AI Ethics & Regulation
+                  |   • Posthuman & Non-Human Actors: 
+                  |     Assemblages & Speculative Agencies
+
+===========================================================================
+
+            ➤  Good = d(OGI)/dt   |   Contradiction is Essential  
+            ➤  Reflexivity = Immunity  |  Absence is Generative
+===========================================================================
+
+                «  Dream the System  |  Diagnose the Lacunae  »
+                «  Desediment the Real |  Affirm the Virtual  »
+===========================================================================
+```
+
+---
 ## Quick Start
 
 1. Clone or download the repository to access the full manuscript (PDF, DOCX) and supplementary diagrams[^1].
