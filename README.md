@@ -21,10 +21,11 @@ This repository hosts materials for the research paper “Posthumanist Phenomeno
 ## Abstract (snapshot)
 
 The paper interrogates anthropocentric assumptions in AI by integrating Deleuze, Foucault, Haraway, non-Euclidean geometry, and causal attribution techniques[^1]. It proposes concepts such as negative augmentation, praxes of revealing, and affirmative cartographies to frame AI systems as autopoietic assemblages whose agency emerges through relational networks rather than fixed binaries (human vs machine, subject vs object)[^1].
+
 ---
 ```
 ===========================================================================
-               POSTHUMANIST ONTOPOLITICAL ARCHITECTONICS FOR AI
+               POSTHUMANIST ONTOPOLITICAL ARCHITECTONICS FOR AI 
 ===========================================================================
 
                    |  METAPHYSICAL LAYER  |
@@ -86,6 +87,7 @@ The paper interrogates anthropocentric assumptions in AI by integrating Deleuze,
                 «  Dream the System  |  Diagnose the Lacunae  »
                 «  Desediment the Real |  Affirm the Virtual  »
 ===========================================================================
+              (SEE ONTOPOLITICAL ARCHITECTONICS ON GITHUB)
 ```
 
 ---
